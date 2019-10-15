@@ -1,0 +1,11 @@
+#               表示此为注释,将被Git忽略
+*.csv            
+*.h5
+*.txt
+
+/data/
+/document/            
+*.log
+
+/.ipynb_checkpoints/           表示过滤整个文件夹
+*.zip           表示过滤所有.zip文件
